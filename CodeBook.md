@@ -1,7 +1,7 @@
 CodeBook of Getting and Cleaning Data Course Project 
 =================================================
 This codebook describes the variables, the data, and any transformations  that were done to perform the clean up of the data.  
-* The URL of the site providing the data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
+* The URL of the site providing the raw data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 *  Using the run_analysis.R script the following steps for cleaning the data are performed:   
  1. The files X_train.txt, y_train.txt and subject_train.txt from the "./data/train" folder are read. Then these are stored in the variables *trainingXData*, *trainingLabel* and *trainingSubjectData*.      
  2. Furthermore the files X_test.txt, y_test.txt and subject_test.txt from the "./data/test" folder are read.  The variables *testXData*, *testLabel* and *testSubjectData* are used to store them.  
