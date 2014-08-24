@@ -25,5 +25,5 @@ There are dependencies of the script `run_analysis.R` on the library `reshape`. 
 `CodeBook.md` contains information about the datasets and the transformation procress executed in the run_analysis.R .     
 
 ## Code 
-Detailed commments which explain the steps in which the original data is transformed to the files `tidy1.csv` and `tidy2.csv` are contained in the source code. 
+Detailed commments which explain the steps in which the original data is transformed to the files `merged-data.csv` and `tidy-data.csv` are contained in the source code. 
 
